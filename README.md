@@ -1,25 +1,63 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Sahu</h1>
-<h3 align="center">A passionate aspiring Big Data Engineering</h3>
+<h3 align="center">🚀 Aspiring Big Data Engineer | Passionate about Data, Cloud & AI</h3>
 
-- 🔭 I’m currently working on [Spark](https://github.com/WHEELYDOS/Spark-Project.git)
-
-- 🌱 I’m currently learning **Big Data Engineering**
-
-- 👨‍💻 All of my projects are available at [https://github.com/WHEELYDOS](https://github.com/WHEELYDOS)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/harsh-vardhan-sahu-8b8b022b1/](https://www.linkedin.com/in/harsh-vardhan-sahu-8b8b022b1/)
-
-- 📫 How to reach me **harshvardhansahu06733@gmail.com**
-
-- ⚡ Fun fact **Did you know? Instant ramen was invented in 1958 by Momofuku Ando in Japan, and at first it was considered a luxury item because it was more expensive than fresh noodles! Now, ramen is one of the most popular comfort foods in the world, with over 100 billion servings eaten globally every year. 🌍🍲**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=4BC3F7&center=true&vCenter=true&width=600&height=50&lines=Big+Data+Engineering+Enthusiast;Cloud+%7C+Spark+%7C+Kafka+%7C+Hadoop;Learning+Everyday+🚀;Always+curious+about+data+📊">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wheelydos&show_icons=true&locale=en&layout=compact" alt="wheelydos" /></p>
+### 🔭 Current Work
+- Working on: [Spark Project](https://github.com/WHEELYDOS/Spark-Project.git)  
+- Learning: **Big Data Engineering**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wheelydos&show_icons=true&locale=en" alt="wheelydos" /></p>
+### 👨‍💻 My Projects
+- All projects are available here 👉 [GitHub Profile](https://github.com/WHEELYDOS)  
+
+### 📝 Articles
+- I write regularly on [LinkedIn](https://www.linkedin.com/in/harsh-vardhan-sahu-8b8b022b1/)  
+
+### 📫 How to reach me
+- Email: **harshvardhansahu06733@gmail.com**  
+
+---
+
+### ⚡ Fun Fact  
+> 🍜 **Did you know?** Instant ramen was invented in **1958** by *Momofuku Ando* in Japan.  
+> At first, it was a **luxury item** more expensive than fresh noodles!  
+> Today, over **100 billion servings** of ramen are enjoyed globally every year 🌍🔥  
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:harshvardhansahu06733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harsh-vardhan-sahu-8b8b022b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/WHEELYDOS"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,linux,bash,git,docker,postgresql,mysql,photoshop,figma,flask,azure,gcp,hadoop,hive,kafka" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wheelydos&theme=tokyonight" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wheelydos&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheelydos&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wheelydos&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
