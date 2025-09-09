@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Sahu</h1>
 <h3 align="center">A passionate aspiring Big Data Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wheelydos" alt="wheelydos" /></a> </p>
-
 - 🔭 I’m currently working on [Spark](https://github.com/WHEELYDOS/Spark-Project.git)
 
 - 🌱 I’m currently learning **Big Data Engineering**
