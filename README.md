@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Current Work
-- Working on: [Spark Project](https://github.com/WHEELYDOS/Spark-Project.git)  
+- Working on: Myself 
 - Learning: **Big Data Engineering**  
 
 ### 👨‍💻 My Projects
