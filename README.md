@@ -90,14 +90,14 @@ fun_fact : "100 billion servings of ramen/yr —
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wheelydos&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=64748b" width="49%" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheelydos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6" width="38%" alt="languages"/>
+  <img src="https://streak-stats.demolab.com/?user=wheelydos&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=64748b" width="49%" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheelydos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6&cache_seconds=1800" width="38%" alt="languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wheelydos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true" width="55%" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wheelydos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true&cache_seconds=1800" width="55%" alt="stats"/>
 </div>
 
 <br/>
@@ -137,6 +137,7 @@ fun_fact : "100 billion servings of ramen/yr —
   </picture>
 </div>
 
+> ⚙️ _Snake needs a one-time setup — add the workflow file below to `.github/workflows/snake.yml`_
 
 <br/>
 
