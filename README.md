@@ -137,7 +137,6 @@ fun_fact : "100 billion servings of ramen/yr —
   </picture>
 </div>
 
-> ⚙️ _Snake needs a one-time setup — add the workflow file below to `.github/workflows/snake.yml`_
 
 <br/>
 
